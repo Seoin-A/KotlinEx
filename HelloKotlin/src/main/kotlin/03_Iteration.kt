@@ -28,8 +28,20 @@ fun rangeClass(){
         println(i)
     }
 
-    
+
     // 2. while
+    var num = 1
+
+    while (num < 5){
+        println("current number $num")
+        num++
+    }
+
+    do {
+        println("current number $num")
+        num++
+    }while (num < 6)
+    
 
 
 }
