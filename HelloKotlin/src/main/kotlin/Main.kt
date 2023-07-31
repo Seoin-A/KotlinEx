@@ -1,5 +1,9 @@
 fun main(args: Array<String>) {
-    val pi : Double = 3.14
-    println(pi)
-
+    //dataType()
+    //printStudentInfo("seoin", 26)
+    //println(addNum(1,5))
+    //stringFormat();
+    rangeClass()
 }
+
+
