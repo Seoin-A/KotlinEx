@@ -33,7 +33,6 @@ fun immutableSet(){
 
 
 // Map
-
 fun mapEx(){
     val immutableMap = mapOf("name" to "Joyce", "age" to 100, "height" to 170) // immutableMap
 //    println(immutableMap["name"])
